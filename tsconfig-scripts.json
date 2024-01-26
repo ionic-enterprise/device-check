@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./scripts",
+        "module": "es2022",
+        "moduleResolution": "node",
+        "target": "ES2022"
+  }
+}
+  
